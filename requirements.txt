@@ -32,7 +32,7 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 nltk==3.4.5
 pathtools==0.1.2
-protobuf==3.12.2
+protobuf==3.18.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pylint==2.3.1
